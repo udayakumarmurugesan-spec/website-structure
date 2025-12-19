@@ -1,5 +1,3 @@
-flowchart TD
-
 A[Website] --> B[Header]
 A --> C[Home (Landing Page)]
 A --> D[Main Pages]
@@ -81,4 +79,3 @@ E2 --> E23[Email]
 
 E --> E3[Social Media Links]
 E --> E4[Copyright & Legal]
-# website-structure
